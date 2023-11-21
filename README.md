@@ -1,28 +1,7 @@
-# ABOUTME
-Ulrich
 
-<h1>Hi, My name is Madonfa Zeutsa Yann Ulrich but you can call me Ulrich <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
-
-<h2>👨‍💻 Software Development Projects:</h2>
-
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-Expand
-message.txt
-4 KB
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
-
-<h2>👨‍💻 Software Development Projects:</h2>
-
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-Expand
-message.txt
-4 KB
-﻿
 Edwin Tienteu
 edwintienteu
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Ulrich I'm a student at NBCC pursuing Information Technology: Programmer Analyst in Saint John. Proficient in Python, JavaScript, Java, and C++, I'm eager to apply theoretical knowledge gained from coursework to practical experiences. Though I lack professional experience, I'm actively seeking internships to kickstart my journey. Specializing in crafting intuitive interfaces and prioritizing performance and security, I'm enthusiastic about contributing to innovative projects. Contact me at [Your Email Address] for collaborations or internship inquiries.! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
