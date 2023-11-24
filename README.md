@@ -35,11 +35,8 @@ Fluent in both English and French
 
 - 🌱 I’m currently learning ...
 - 🌱 I’m currently learning ...
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="linkedin.com/in/yann-madonfa-b549a2220" />][linkedin]
+Connect with me on [LinkedIn](https://www.linkedin.com/in/yann-madonfa-b549a2220/)!
 
-
-
-[linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
 
