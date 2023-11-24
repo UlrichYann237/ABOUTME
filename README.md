@@ -31,11 +31,8 @@ programming, SQL, SQL Server and MYSQL.
 <h2>📖 Languages</h2>
 Fluent in both English and French
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳Connect with me on [LinkedIn](https://www.linkedin.com/in/yann-madonfa-b549a2220/)!</h2>
 
-- 🌱 I’m currently learning ...
-- 🌱 I’m currently learning ...
-Connect with me on [LinkedIn](https://www.linkedin.com/in/yann-madonfa-b549a2220/)!
 
 
 <!--
