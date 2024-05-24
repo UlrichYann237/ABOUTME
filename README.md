@@ -1,11 +1,11 @@
-<h1>Hi, I'm Josh! <br/>
+<h1>Hi, I'm YANN ULRICH! <br/>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>NETFLIX-Like responsive website</b>
   - [Creating a Seamless Streaming Experience with Modern Web Technologies](https://github.com/UlrichYann237/Disney-Movie-Website)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Full Stack Web App in MERN (MongoDB, Express, React, and Node. js)</b>
+  - [CRUD WEB APP](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
